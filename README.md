@@ -8,14 +8,13 @@ CSE student
 #### heading4
 ##### heading5
 ###### heading6
-
   Italic style : *abcdefghijklmnopqrstuvwxyz*
 
   Bold style : **abcdefghijklmnopqrstuvwxyz**
 
   Bold & Italic style :  ***abcdefghijklmnopqrstuvwxyz***
  
- ## Link in readme file
+ ## Link in README file :
  [GOOGLE](www.google.com)
  <br/>
  [AEC](www.aec.edu.in)
@@ -46,4 +45,5 @@ CSE student
 2. CPU
    - ALU
    - CU
-
+ 
+Ramareddy2002
