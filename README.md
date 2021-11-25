@@ -9,24 +9,26 @@ CSE student
 ##### heading5
 ###### heading6
 
- ### Italic style *abcdefghijklmnopqrstuvwxyz*
+  Italic style : *abcdefghijklmnopqrstuvwxyz*
 
- ### Bold style **abcdefghijklmnopqrstuvwxyz**
+  Bold style : **abcdefghijklmnopqrstuvwxyz**
 
- ### Bold & Italic style  ***abcdefghijklmnopqrstuvwxyz***
+  Bold & Italic style :  ***abcdefghijklmnopqrstuvwxyz***
  
  ## Link in readme file
  [GOOGLE](www.google.com)
+ <br/>
+ [AEC](www.aec.edu.in)
  
- ## Image
- ![project](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1wXIet8yPoAUZ1jj3BNDUkspa5z9a1owUg&usqp=CAU)
+ ## IMAGE :
+ ![PROJECT](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg1wXIet8yPoAUZ1jj3BNDUkspa5z9a1owUg&usqp=CAU)
 |S.NO|ROLL_NO|NAME|BRANCH|SECTION|
 |----|----|----|----|----|
 |1|20A91A05B1|SUNIL|CSE|B|
 |2|20A91A05CO|RAMA REDDY|CSE|B|
 |3|20A91A0582|BALAJI REDDY|CSE|B|
 
-## LISTS
+## LISTS :
 ## UNORDERED LISTS OF INPUT DEVICES 
 - KEYBOARD
 - MOUSE
